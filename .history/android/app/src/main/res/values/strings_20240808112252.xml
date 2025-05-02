@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManasStaj</string>
+     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC-jBHgGrvJoOoj15DVGRcFVkUc9oj3Uvk</string>
+</resources>
